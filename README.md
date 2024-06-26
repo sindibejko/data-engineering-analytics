@@ -1,5 +1,5 @@
 # Data Engineering & Analytics
-Projects related to data analytics and engineering.
+This repository contains projects related to data analytics and engineering.
 
 ## Projects
 - 🎶 [Spotify Wrapped](https://github.com/sindibejko/data-engineering-analytics/tree/main/Spotify%20Wrapped): designed and implemented a pipeline that simulates the data processing behind *Spotify Wrapped*. Incorporates various aspects of data engineering, such as distributed systems, data serialization, stream processing techniques, and cloud computing. (Group Project)
