@@ -1,0 +1,9 @@
+Faker
+fastavro
+kafka-python
+matplotlib
+numpy
+pandas
+seaborn
+spotipy
+tqdm
